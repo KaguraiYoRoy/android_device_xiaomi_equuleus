@@ -13,7 +13,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_equuleus
 PRODUCT_DEVICE := equuleus
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI 8 Pro
+PRODUCT_MODEL := MI 8 UD
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
